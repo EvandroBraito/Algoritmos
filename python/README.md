@@ -1,0 +1,1 @@
+Alguns exercicios em python de 2018, "Primeiros programas".
